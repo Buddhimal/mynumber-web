@@ -281,7 +281,7 @@ GENERAL CLASSES
   -webkit-text-fill-color: transparent; }
 
 .s-pattern {
-  background-image: url("../img/pattern.png"); 
+  background-image: url("../img/pattern.png");
 }
 
 .s-section-padding {
@@ -305,14 +305,14 @@ GENERAL CLASSES
 .c-headline span {
     color: #9599A7;
     font-size: 1.1em;
-    text-transform: uppercase; 
+    text-transform: uppercase;
 }
 
 
 .c-headline span.normal {
     color: #9599A7;
     font-size: 1.1em;
-    text-transform: none; 
+    text-transform: none;
 }
 
   .c-headline h2 {
@@ -423,7 +423,7 @@ BOOTSTRAP OVERWRITE CSS
   background: transparent;
   padding: 25px 0;
   border: none;
-  margin-bottom: 0; 
+  margin-bottom: 0;
 }
 
 .navbar-brand {
@@ -1748,16 +1748,16 @@ COMING SOON PAGE CSS
 -------------------------------- */
 .comingso {
   color: #fff;
-  text-align: center; 
+  text-align: center;
 }
 
   .comingso__img {
-    background: transparent url("http://via.placeholder.com/4800x2800") no-repeat center/cover; 
+    background: transparent url("http://via.placeholder.com/4800x2800") no-repeat center/cover;
   }
 
   .comingso__overlay {
     background-color: #ff2a2a;
-    opacity: 0.7; 
+    opacity: 0.7;
   }
 
   .comingso .logo {
@@ -2209,7 +2209,7 @@ RESPONSIVE CSS
     background: -webkit-linear-gradient(left, #0082c9, #302680);
     background: -o-linear-gradient(left, #0082c9, #302680);
     background: linear-gradient(to right, #0082c9, #302680);
-    min-height: 100vh; 
+    min-height: 100vh;
 }
 
   .nav > li {
@@ -2354,3 +2354,4 @@ RESPONSIVE CSS
     -webkit-transform: translate(0);
     -ms-transform: translate(0);
     transform: translate(0); } }
+
