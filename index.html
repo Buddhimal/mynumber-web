@@ -441,6 +441,10 @@
             });
 
             xhr.open("POST", "https://public.mynumber.lk/api/public/inquiry");
+            xhr.setRequestHeader("Access-Control-Allow-Methods", " GET, POST, PUT, PATCH, POST, DELETE, OPTIONS");
+            xhr.setRequestHeader("Access-Control-Allow-Headers", " Content-Type");
+            xhr.setRequestHeader("Access-Control-Allow-Origin", " https://mynumber.lk");
+            xhr.setRequestHeader("Access-Control-Max-Age", " 86400");
             xhr.setRequestHeader("Content-Type", "application/json");
 
             xhr.send(data);
