@@ -1,0 +1,16 @@
+[06-Dec-2020 03:47:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function lcword() in /home2/sirikath/public_html/mynumber/php/contact.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sirikath/public_html/mynumber/php/contact.php on line 12
+[06-Dec-2020 03:47:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function lcword() in /home2/sirikath/public_html/mynumber/php/contact.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sirikath/public_html/mynumber/php/contact.php on line 12
+[10-Dec-2020 11:36:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function lcword() in /home2/sirikath/public_html/mynumber/php/contact.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sirikath/public_html/mynumber/php/contact.php on line 12
+[05-Feb-2021 11:40:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function lcword() in /home2/sirikath/public_html/mynumber/php/contact.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/sirikath/public_html/mynumber/php/contact.php on line 12
