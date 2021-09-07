@@ -1458,12 +1458,12 @@ SUBSCRIBE SECTION CSS
 .t-shadow .hero__download {
   position: relative;
   text-align: center;
-  padding-bottom: 110px;
+  padding-bottom: 200px;
   z-index: 2; }
 
 .t-shadow .hero__img {
   position: absolute;
-  bottom: -280px;
+  bottom: -360px;
   left: 0;
   right: 0;
   max-width: 900px;
